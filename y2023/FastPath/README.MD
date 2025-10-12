@@ -1,0 +1,1 @@
+This is for development, where waiting for the dicom -> pdf -> png process for hundreds of files is very slow, so the .pngs are cached here.

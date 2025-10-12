@@ -1,0 +1,4 @@
+FileName,Result,Cancer,Surgery,Skipped,Problem
+Augusta1.dcm,1,0,0,0,0
+Augusta2.dcm,0,0,1,0,0
+Augusta3.dcm,0,0,1,0,0

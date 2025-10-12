@@ -1,0 +1,4 @@
+FileName,HasCancer,HasSurgery,Useable,Patient_ID,DOB,Study_UID,Study_Date
+Augusta4,False,True,False,999999,9999999,9.9.9.9.9.9.999999,20210716
+Augusta1,False,False,True,999999,9999999,9.9.9.9.9.9.999999,20210716
+x100s more of rows

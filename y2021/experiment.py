@@ -1,0 +1,10 @@
+import os
+f = open("out.csv", "a+")
+f.write("FileName,Result,Cancer,Surgery,Skipped,Problem")
+f.write("\n")
+f.write("CoolName,1,0,0,0,0")
+f.write("\n")
+f.write("CoolishName,0,1,0,0,0")
+f.write("\n")
+f.write("CoolestName,0,1,1,0,0")
+f.close()
