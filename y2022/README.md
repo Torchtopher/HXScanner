@@ -1,7 +1,7 @@
 Author: Christoper Holley
 Email: torchtopher@gmail.com
 
-History Sheet Scanner
+# History Sheet Scanner
 
 Installation:
 Make sure python 3 is installed.
